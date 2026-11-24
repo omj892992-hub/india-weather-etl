@@ -1,0 +1,16 @@
+# Data outputs
+data/
+*.parquet
+*.db
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Testing cache
+.pytest_cache/
+.coverage
+
+# Virtual environments
+venv/
+.venv/
